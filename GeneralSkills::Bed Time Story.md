@@ -4,3 +4,5 @@ Points: 100
     We all love The Sleeping Beauty since we were kids, she is soooooooooo prettyyyyyyyyyyyyyy <3 <3
 # Solution
     Mở file word lên và Ctrl + F: find "miniCTF" là sẽ hiện ra flag.
+# Flag
+    miniCTF{nice_bed_time_eiii?}
